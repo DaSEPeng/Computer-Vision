@@ -10,6 +10,8 @@
 - Project 2
 - Project 3
 - Final Project
+  - [视听语言感知与理解组@中科院](http://vipl.ict.ac.cn/team.php?id=10)
+  - [杨双@中科院计算所](http://vipl.ict.ac.cn/people/~syang)
   - [Stanford LRW](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)
   - [VIKRAM VOLETI](https://voletiv.github.io/)
 
