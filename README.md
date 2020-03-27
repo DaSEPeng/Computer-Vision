@@ -9,7 +9,7 @@
   - [git官方入门book](https://git-scm.com/book/zh/v2)
 - Project 2
 - Project 3
-- Final Project：Lip Reading(THIS IS A VERY VERY COOL PROJECT!)
+- Final Project：Lip Reading (THIS IS A VERY VERY COOL PROJECT!)
   - [视听语言感知与理解组@中科院](http://vipl.ict.ac.cn/team.php?id=10)
   - [杨双@中科院计算所](http://vipl.ict.ac.cn/people/~syang)
   - [Stanford LRW](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)
