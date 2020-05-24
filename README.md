@@ -8,7 +8,7 @@
   - 服务器配置运行jupyter notebook: [blog1](https://zhuanlan.zhihu.com/p/20226040) [blog2](https://cloud.tencent.com/developer/article/1532672)
 - [x] Assignment 1
   - [Assignment1 作业指南](http://106.75.225.141/chieh/2020_ecnu_dase_cv_assignment?nsukey=Qj92Qy6%2BuQVQchYbQaUW2vQxY0C4Bs2SfcV%2BE5hXPx17tLD5fbkWnoFaDmqoHWM5uy9Hk%2BwQ885mtFQl4AezrqlwJhFs4so6mD8x83sNHNQK%2BaV9q5Hsf%2BJpXfWiZlrWPkZhNcevyid72u7uwHewgpCvUHGJGj0a4IypRcWDANhsuYBY6pWYey0TtpPaSJJuulwE01zglwjOoB%2BrZhxE4Q%3D%3D)
-- [ ] Assignment 2
+- [x] Assignment 2
   - [Assignment2 作业指南](http://106.75.225.141/chieh/2020_ecnu_dase_cv_assignment/blob/master/assignment2.md)
 - [ ] Assignment 3
   - 参见CS231N作业3
