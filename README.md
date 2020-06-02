@@ -1,9 +1,11 @@
 ## Course Info
 Instructor: 
 - [Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40)
+
 TextBook
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 - [Deep Learning](http://www.deeplearningbook.org/)
+
 Related Courses
 - [CS231N @ Stanford](https://cs231n.github.io/)
 
