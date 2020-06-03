@@ -8,6 +8,7 @@ TextBook
 
 Related Courses
 - [CS231N @ Stanford](https://cs231n.github.io/)
+- [CS231N Notes](https://zhuanlan.zhihu.com/p/21930884)
 
 ## Notes
 - TBC
