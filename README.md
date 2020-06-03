@@ -11,7 +11,7 @@ Related Courses
 - [CS231N Notes](https://zhuanlan.zhihu.com/p/21930884)
 
 ## Notes
-- Course Summary: 【[PPT](CV_summary_20200604.pptx) | [PDF](CV_summary_20200604.pdf)】
+- Course Summary: 【[PPT](CV_summary_20200604.pptx)  [PDF](CV_summary_20200604.pdf)】
 
 ## PROJECTS
 - [x] Startup
