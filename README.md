@@ -31,9 +31,9 @@ Related Materials
   - [VIKRAM VOLETI](https://voletiv.github.io/)
 
 ## TODO
-- CS231N其他课程与笔记内容
-- CS231N作业3
-- CS231N作业整理
+[ ] CS231N其他课程与笔记内容
+[ ] CS231N作业3
+[ ] CS231N作业整理
 
 ------------------------------------------------------------
 
