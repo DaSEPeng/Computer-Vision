@@ -1,5 +1,13 @@
+## Course Info
+Instructor: 
+- [Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40)
+
+Related Materials
+- [CS231N @ Stanford](https://cs231n.github.io/)
+- [CS231N Notes](https://zhuanlan.zhihu.com/p/21930884)
+
 ## Notes
-- TBC
+- Course Summary: 【[PPT](CV_summary_20200604.pptx) & [PDF](CV_summary_20200604.pdf)】
 
 ## PROJECTS
 - [x] Startup
@@ -22,6 +30,16 @@
   - [Stanford LRW](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)
   - [VIKRAM VOLETI](https://voletiv.github.io/)
 
-## 参考资料
-- [天池物体检测入门教程](https://tianchi.aliyun.com/course/video?spm=5176.12586971.1001.1.43ee69a6MIANrO&liveId=41141)
-- [子豪兄 -- 精讲2019最新CS231N斯坦福计算机视觉公开课](https://www.bilibili.com/video/BV1K7411W7So?from=search&seid=805082307326787596)
+## TODO
+- [ ] CS231N其他课程与笔记内容
+- [ ] CS231N作业3
+- [ ] CS231N作业整理
+- [ ] 复旦NNDL编程练习全订正完
+
+------------------------------------------------------------
+
+<div style="text-align:center;">
+This page maintained by @ <a href="https://dasepeng.github.io/">DaSEPeng</a>, 	
+<a href="https://github.com/DaSEPeng/Computer-Vision/">View on GitHub</a>
+</div>
+
