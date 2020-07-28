@@ -34,12 +34,11 @@ Related Materials
 - [ ] CS231N其他课程与笔记内容
 - [ ] CS231N作业3
 - [ ] CS231N作业整理
-- [ ] 复旦NNDL编程练习全订正完
 
 ------------------------------------------------------------
 
 <div style="text-align:center;">
-This page maintained by @ <a href="https://dasepeng.github.io/">DaSEPeng</a>, 	
-<a href="https://github.com/DaSEPeng/Computer-Vision/">View on GitHub</a>
+This page maintained by @ <a href="/">dasepli</a>, 	
+<a href="/Computer-Vision/">View on GitHub</a>
 </div>
 
