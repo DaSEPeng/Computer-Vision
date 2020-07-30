@@ -22,13 +22,13 @@ Related Materials
   - 参见CS231N作业3
 - [ ] Final Project
   - [Final Project 作业指南](http://106.75.225.141/chieh/2020_ecnu_dase_cv_assignment/blob/master/final_project.md)
-  - 题目：“基于关键点检测的美颜算法”
-  - collaborated with @ [Yuntao Du](https://zealscott.com/)
 - TODO Project：Lip Reading (THIS IS A VERY VERY COOL PROJECT!)
   - [视听语言感知与理解组@中科院](http://vipl.ict.ac.cn/team.php?id=10)
   - [杨双@中科院计算所](http://vipl.ict.ac.cn/people/~syang)
   - [Stanford LRW](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)
   - [VIKRAM VOLETI](https://voletiv.github.io/)
+- TODO Project：去摩尔纹
+
 
 ## TODO
 - [ ] CS231N其他课程与笔记内容
@@ -39,6 +39,6 @@ Related Materials
 
 <div style="text-align:center;">
 This page maintained by @ <a href="/">dasepli</a>, 	
-<a href="/Computer-Vision/">View on GitHub</a>
+<a href="https://github.com/dasepli/Computer-Vision/">View on GitHub</a>
 </div>
 
