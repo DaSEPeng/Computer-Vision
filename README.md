@@ -1,4 +1,4 @@
-## Course Info
+## Computer Vision
 Instructor: 
 - [Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40)
 
